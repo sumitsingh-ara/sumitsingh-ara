@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://sumit1998-portfolio.netlify.app/](work_in_progress)
+- 👨‍💻 All of my projects are available at [here](https://sumit1998-portfolio.netlify.app/)
 
 - 💬 Ask me about **Reactjs,Javascript,Data-Structures & Algorithm**
 
