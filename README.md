@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitsingh-ara" alt="sumitsingh-ara" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [here](https://sumit1998-portfolio.netlify.app/)
 
-- 💬 Ask me about **Reactjs,Javascript,Data-Structures & Algorithm**
+- 💬 Ask me about **Reactjs,Javascript,Data-Structures & Algorithm,Nodejs,Python,Microservices,AWS,GCP,Nestjs,System Design**
 
 - 📫 How to reach me **sumit47919@gmail.com**
 
